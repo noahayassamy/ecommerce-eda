@@ -47,13 +47,13 @@ britannique vendant principalement en B2B.
 ![Top articles](images/top_10_articles.png)
 
 
-   Structure du projet
+   STRUCTURE DU PROJET
   
 - "analyse_ecommerce_finale": Notebook avec l'analyse complète
 - "data_sample.csv": Échantillon du dataset source
 - "images/": Visualisations importées
 
-   Source des données
+   SOURCE DES DONNÉES
   
 Dataset disponible sur Kaggle:
 [E-Commerce Data](https://www.kaggle.com/datasets/carrie1/ecommerce-data)
