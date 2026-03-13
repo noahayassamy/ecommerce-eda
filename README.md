@@ -26,7 +26,7 @@ britannique vendant principalement en B2B.
 - CA Total: 8,911,408 £
 - Nombre de clients uniques: 4,339
 - Meilleur mois: Novembre
-- Panier moyen: 480.76 £
+- Panier moyen: 481 £
 - Article le plus vendu: PAPER CRAFT , LITTLE BIRDIE
 
    GRAPHIQUES
