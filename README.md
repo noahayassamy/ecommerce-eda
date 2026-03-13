@@ -19,7 +19,7 @@ britannique vendant principalement en B2B.
 - Python
 - Pandas: Manipulation et analyse des données
 - Matplotlib: Visualisation des données
-- Jupiter Notebook: Environnement de développement
+- Jupyter Notebook: Environnement de développement
 
    INSIGHTS CLÉS
   
@@ -51,7 +51,7 @@ britannique vendant principalement en B2B.
   
 - "analyse_ecommerce_finale": Notebook avec l'analyse complète
 - "data_sample.csv": Échantillon du dataset source
-- "images/": Visualisations importées
+- "images/": Visualisations exportées
 
    SOURCE DES DONNÉES
   
